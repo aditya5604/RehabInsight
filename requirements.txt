@@ -1,0 +1,5 @@
+opencv-python
+tk-tools
+praw
+notebook
+scikit-learn
